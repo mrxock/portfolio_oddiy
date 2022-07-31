@@ -1,0 +1,29 @@
+
+    {
+        "name":"Akmaljon",
+        "title": "Assalomu Alaykum bu mening Portfoliom",
+        "projects":[
+            {
+                "name": "Trafalgar",
+                "image": "assets/images/avatar.jpg",
+                "subtitle":"Dasturlashni Endi boshlaganimda"
+            },
+            {
+                "name": "Ice Cream",
+                "image": "assets/images/avatar.jpg"
+                ,
+                "subtitle":"Dasturlashni Endi boshlaganimda"
+            },
+            {
+                "name": "Namagaliklar24",
+                "image": "assets/images/avatar.jpg",
+                "subtitle":"Dasturlashni Endi boshlaganimda"
+            },
+            {
+                "name": "Pokemon",
+                "image": "assets/images/avatar.jpg",
+                "subtitle":"Dasturlashni Endi boshlaganimda"
+            }
+
+        ]
+    }
